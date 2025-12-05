@@ -11,7 +11,7 @@ app = FastAPI(title="Screen Time Advisor API")
 # CORS for frontend
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173"],
+    allow_origins=["http://localhost:5173", "http://localhost:5174"],  # Add 5174 for current port
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
