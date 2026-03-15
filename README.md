@@ -1,4 +1,7 @@
-Data Analysis | Power BI Dashboard | React + FastAPI Web App
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
+![PowerBI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
+![React](https://img.shields.io/badge/React-Frontend-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)
 
 # ScreenSense: Kids Screentime Visualization
 
